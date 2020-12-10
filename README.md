@@ -1,4 +1,9 @@
-# agriculturalmall
+# AgriculturalMall (农业商城项目)
+
+**项目时间：**2020-5-5 ~ 2020-5-8
+**项目描述：** 移动端商城项目
+**技术栈：** Vue 2 集成Element-UI
+
 
 ## Project setup
 ```

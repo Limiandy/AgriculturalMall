@@ -1,0 +1,34 @@
+/* css reset*/
+html,body {
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+}
+html {
+  font-family: PingFangSC-Medium,Microsoft YaHei,Arial,sans-serif;
+  font-size: 100px;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+html::-webkit-scrollbar {
+  display: none;
+}
+body {
+  padding-bottom: .834rem;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+
